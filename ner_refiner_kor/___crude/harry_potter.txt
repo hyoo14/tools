@@ -1,0 +1,4 @@
+해리/NNP 포터/NNG+(/SS+다니엘/NNP 래/NNG+드/NNG+크/VA+ㄹ/ETM+리프/NNG 분/XSN+)/SS+는/ETM 위압/NNG+적/XSN+이/VCP+ㄴ/ETM 버/NNG+논/NNG 숙부/NNG+(/SS+리챠드/NNP 그리피스/NNP 분/NNB+)/SS+와/JC 냉담/NNG+하/XSV+ㄴ/ETM 이모/NNG 페투/NF+니/EC+아/EC (/SS+피/IC+오/IC+나/NP 쇼/NNG 분/XSN+)/SS+,/SP
+욕심/NNG 많/VA+고/EC 버릇없/VA+는/ETM 사촌/NNG 더즐/NF+리/EC+(/SS+해리/NNB 멜/NNP+링/NNG 분/XSN+)/SS 밑/NNG+에서/JKB 갖은/MM 구박/NNG+을/JKO 견디/VV+며/EC 계단/NNG 밑/NNG 벽장/NNG+에서/JKB 생활/NNG+하/XSV+ㄴ다/EF+./SF
+이/MM+모네/NNP 식구/NNG+들/XSN 역시/MAJ 해리/NNB+와/JKB+의/JKG 동거/NNG+가/JKS 불편/NNG+하/XSV+기/ETN+는/JX 마찬가지/NNG+./SF
+이모/NNG 페투/NF+니/EC+아/NNG+에게/JKB+ㄴ/JX 해리/NNB+가/JKS 이상/XR+하/XSA+ㄴ/ETM+(/SS+?/SF+)/SS 언니/NNG 부부/NNG+에/JKB 관하/VV+ㄴ/ETM 기억/NNG+을/JKO 떠올리/VV+게/EC 만들/VV+는/ETM 달갑/VA+지/EC 않/VX+은/ETM 존재/NNG+다/JX+./SF

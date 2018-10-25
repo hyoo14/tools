@@ -1,0 +1,11 @@
+﻿B-LC
+I-DT
+B-DT
+B-TI
+I-OG
+B-PS
+I-LC
+O
+I-TI
+B-OG
+I-PS

@@ -1,0 +1,4 @@
+세/MM 남자/NNG+가/JKS 가/VV+고/EC 싶/VX+었/EP+던/ETM 서로/NNG 다른/MM 신세계/NNP
+"/SS+너/NP+,/SP 나/NNG+하/XSV+고/EC 일/NR 하나/NR 같이/MAG 하/XSV+자/EC+"/SS
+경찰청/NNG 수사/NNG 기획/NNG+과/JC 강/NNP+과장/NNG+(/SS+최/XPN+민/NNP+식/NNB+)/SS+은/ETM 국내/NNG 최대/NNG 범죄/NNG 조직인/NNG '/SS+골드/NNG+문/NNG+'/SS+이/MM 기업/NNG+형/NNG 조직/NNG+으로/JKB 그/MM 세력/NNG+이/JKS 점점/MAG 확장/NNG+되/XSV+자/EC
+신입/NNG+경찰/NNG 이자/NNG+성/XSN+(/SS+이정재/NNP+)/SS+에게/JKB 잠입/NNG 수사/NNG+를/JKO 명하/VV+ㄴ다/EF+./SF

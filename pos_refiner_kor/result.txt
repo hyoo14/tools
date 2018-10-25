@@ -1,0 +1,666 @@
+누구
+ 1. 누구/NP
+ 2. 누구/NNP
+ 3. 누/VV+구/EC
+ 4. 누/NNG+구/EC
+ 5. 누/NP+구/EC
+ 6. 누/NNP+구/XPN
+ 7. 누/NNG+구/NNG
+ 8. 누/NP+구/NNG
+ 9. 누/NNP+구/NNG
+10. 누/NNG+구/NNB
+11. 누/NP+구/NNB
+12. 누/NNP+구/NNB
+13. 누/NNG+구/NNP
+14. 누/NNP+구/NNP
+살
+ 1. 사/VV+ㄹ/ETM
+ 2. 살/NNB
+ 3. 살/NNG
+ 4. 사/VV+ㄹ/ETM
+ 5. 사/JX+ㄹ/ETM
+ 6. 사/NNG+ㄹ/JKO
+ 7. 사/EC+ㄹ/JKO
+ 8. 사/JX+ㄹ/JKO
+ 9. 사/VV+아/EF+ㄹ/ETM
+10. 사/VV+아/EC+ㄹ/JKO
+싶
+ 1. 싶/NA
+도시
+ 1. 도시/NNG
+ 2. 도시/MAG
+ 3. 도/EC+시/EP
+ 4. 도/JX+시/NNB
+ 5. 도/NNG+시/NNB
+ 6. 도/NNB+시/NNB
+ 7. 도/EC+시/NNB
+ 8. 도/NNP+시/NNB
+ 9. 도/JX+시/NNG
+10. 도/NNG+시/NNG
+11. 도/NNB+시/NNG
+12. 도/EC+시/NNG
+13. 도/NNP+시/NNG
+14. 도/JX+시/XSN
+15. 도/NNG+시/XSN
+16. 도/NNB+시/XSN
+17. 도/EC+시/XSN
+18. 도/NNP+시/XSN
+19. 도/NNG+시/NNP
+20. 도/NNB+시/NNP
+21. 도/NNP+시/NNP
+22. 돌/VV+시/EP
+1
+ 1. 1/SN
+주
+ 1. 주/NNG
+ 2. 주/NNB
+ 3. 주/MM
+ 4. 주/NNP
+연쇄
+ 1. 연쇄/NNG
+ 2. 열/VV+ㄴ/ETM+쇄/NNG
+ 3. 연/NNG+쇄/NNG
+ 4. 연/NNP+쇄/NNG
+ 5. 연/MM+쇄/NNG
+ 6. 여/EF+ㄴ/ETM+쇄/NNG
+ 7. 여/EF+ㄴ/JX+쇄/NNG
+ 8. 여/EC+ㄴ/JX+쇄/NNG
+ 9. 여/XSN+ㄴ/JX+쇄/NNG
+10. 여/NNG+ㄴ/JX+쇄/NNG
+11. 여/NNP+ㄴ/JX+쇄/NNG
+12. 여/NP+ㄴ/JX+쇄/NNG
+13. 열/VV+ㄴ/ETM+쇄/NNG
+14. 이/VV+어/EF+ㄴ/ETM+쇄/NNG
+15. 이/VV+어/EF+ㄴ/JX+쇄/NNG
+16. 이/VV+어/EC+ㄴ/JX+쇄/NNG
+실종
+ 1. 실종/NNG
+ 2. 실/NNG+종/NNG
+ 3. 실/NNP+종/NNG
+ 4. 실/NNB+종/NNG
+ 5. 실/NNP+종/NNP
+ 6. 시/EP+ㄹ/ETM+종/NNG
+ 7. 시/VA+ㄹ/ETM+종/NNG
+ 8. 시/EP+ㄹ/ETM+종/NNP
+ 9. 시/VA+ㄹ/ETM+종/NNP
+사건
+ 1. 사건/NNG
+ 2. 사/NNG+건/NNB
+ 3. 사/NR+건/NNB
+ 4. 사/EC+건/NNB
+ 5. 사/JX+건/NNB
+ 6. 사/VV+건/EC
+ 7. 사/NNG+건/EC
+ 8. 사/EC+건/EC
+ 9. 사/JX+건/EC
+10. 사/NNG+건/NNG
+11. 사/NR+건/NNG
+12. 사/EC+건/NNG
+13. 사/JX+건/NNG
+14. 사/NNG+거/NNB+ㄴ/JX
+15. 사/NR+거/NNB+ㄴ/JX
+16. 사/EC+거/NNB+ㄴ/JX
+17. 사/JX+거/NNB+ㄴ/JX
+18. 사/EC+거/NP+ㄴ/JX
+19. 사/JX+거/NP+ㄴ/JX
+20. 사/NNG+거/NNG+ㄴ/JX
+21. 사/NR+거/NNG+ㄴ/JX
+22. 사/EC+거/NNG+ㄴ/JX
+23. 사/JX+거/NNG+ㄴ/JX
+24. 사/VV+걸/VV+ㄴ/ETM
+25. 사/NNG+걸/VV+ㄴ/ETM
+26. 사/EC+걸/VV+ㄴ/ETM
+발생
+ 1. 발생/NNG
+ 2. 발/NNG+생/XSN
+ 3. 발/NNB+생/XSN
+ 4. 발/NNG+생/NNG
+ 5. 발/NNB+생/NNG
+미치
+ 1. 미/NNP+치/XSN
+ 2. 미/NNG+치/XSN
+ 3. 미/NNP+치/NNB
+ 4. 미/NNG+치/NNB
+ 5. 미/XPN+치/NNB
+ 6. 미/NNP+치/NNG
+ 7. 미/NNG+치/NNG
+ 8. 미/XPN+치/NNG
+잡
+ 1. 잡/NNG
+싶
+ 1. 싶/NA
+교양
+ 1. 교양/NNG
+ 2. 교/NNG+양/NNG
+ 3. 교/NNB+양/NNG
+ 4. 교/NNB+양/MM
+ 5. 교/NNG+양/NNB
+ 6. 교/NNB+양/NNB
+ 7. 교/NNG+양/NNP
+ 8. 교/NNB+양/NNP
+있
+ 1. 이/VCP+ㅆ/EP
+ 2. 이/VV+ㅆ/EP
+ 3. 이/EC+ㅆ/EP
+세련
+ 1. 세련/XR
+ 2. 세련/NNG
+ 3. 세/NNB+려/EF+ㄴ/ETM
+ 4. 세/VA+려/EF+ㄴ/ETM
+ 5. 세/VV+려/EF+ㄴ/ETM
+ 6. 세/NNB+려/EC+ㄴ/JX
+ 7. 세/NNG+려/EC+ㄴ/JX
+ 8. 세/VA+려/EC+ㄴ/JX
+ 9. 세/VV+려/EC+ㄴ/JX
+10. 세/EC+려/EC+ㄴ/JX
+11. 세/NNB+려/EF+ㄴ/JX
+12. 세/VA+려/EF+ㄴ/JX
+13. 세/VV+려/EF+ㄴ/JX
+라이프
+ 1. 라이프/NNG
+스타일
+ 1. 스타일/NNG
+ 2. 스타/NNG+일/NNG
+ 3. 스타/NNG+일/NNB
+ 4. 스타/NNG+일/NR
+ 5. 스타/NNG+이/VCP+ㄹ/ETM
+ 6. 스타/NNG+이/VV+ㄹ/ETM
+ 7. 스타/NNG+이/NNB+ㄹ/JKO
+ 8. 스타/NNG+이/NNG+ㄹ/JKO
+주도
+ 1. 주도/NNG
+ 2. 주/MM+도/JX
+ 3. 주/NNG+도/JX
+ 4. 주/NNB+도/JX
+ 5. 주/NNP+도/JX
+ 6. 주/NNG+도/NNG
+ 7. 주/NNB+도/NNG
+ 8. 주/MM+도/NNG
+ 9. 주/NNP+도/NNG
+10. 주/NNG+도/NNB
+11. 주/NNB+도/NNB
+12. 주/MM+도/NNB
+13. 주/NNP+도/NNB
+14. 주/VX+도/EC
+15. 주/VV+도/EC
+16. 주/NNG+도/EC
+17. 주/NNB+도/EC
+18. 주/NNG+도/NNP
+19. 주/NNB+도/NNP
+20. 주/MM+도/NNP
+21. 주/NNP+도/NNP
+도시
+ 1. 도시/NNG
+ 2. 도시/MAG
+ 3. 도/EC+시/EP
+ 4. 도/JX+시/NNB
+ 5. 도/NNG+시/NNB
+ 6. 도/NNB+시/NNB
+ 7. 도/EC+시/NNB
+ 8. 도/NNP+시/NNB
+ 9. 도/JX+시/NNG
+10. 도/NNG+시/NNG
+11. 도/NNB+시/NNG
+12. 도/EC+시/NNG
+13. 도/NNP+시/NNG
+14. 도/JX+시/XSN
+15. 도/NNG+시/XSN
+16. 도/NNB+시/XSN
+17. 도/EC+시/XSN
+18. 도/NNP+시/XSN
+19. 도/NNG+시/NNP
+20. 도/NNB+시/NNP
+21. 도/NNP+시/NNP
+22. 돌/VV+시/EP
+주
+ 1. 주/NNG
+ 2. 주/NNB
+ 3. 주/MM
+ 4. 주/NNP
+이
+ 1. 이/VCP
+ 2. 이/MM
+ 3. 이/NP
+ 4. 이/NNP
+ 5. 이/NNB
+ 6. 이/NNG
+ 7. 이/NR
+ 8. 이/EC
+곳
+ 1. 곳/NNG
+단숨에
+ 1. 단숨에/MAG
+ 2. 단/MM+숨/NNG+에/JKB
+ 3. 단/NNG+숨/NNG+에/JKB
+ 4. 단/NNP+숨/NNG+에/JKB
+ 5. 단/MM+숨/NNG+에/NNG
+ 6. 단/NNG+숨/NNG+에/NNG
+ 7. 단/NNP+숨/NNG+에/NNG
+ 8. 단/NNG+숨/VV+에/EC
+ 9. 단/NNP+숨/VV+에/EC
+10. 다/EF+ㄴ/ETM+숨/NNG+에/JKB
+11. 다/JX+ㄴ/ETM+숨/NNG+에/JKB
+12. 다/EF+ㄴ/JX+숨/NNG+에/JKB
+13. 다/EC+ㄴ/JX+숨/NNG+에/JKB
+14. 다/MAG+ㄴ/JX+숨/NNG+에/JKB
+15. 다/JX+ㄴ/JX+숨/NNG+에/JKB
+16. 다/NNG+ㄴ/JX+숨/NNG+에/JKB
+17. 다/NNP+ㄴ/JX+숨/NNG+에/JKB
+18. 달/VX+ㄴ/ETM+숨/NNG+에/JKB
+19. 달/VA+ㄴ/ETM+숨/NNG+에/JKB
+20. 달/VV+ㄴ/ETM+숨/NNG+에/JKB
+21. 다/EF+ㄴ/ETM+숨/NNG+에/NNG
+22. 다/JX+ㄴ/ETM+숨/NNG+에/NNG
+23. 다/EF+ㄴ/JX+숨/NNG+에/NNG
+24. 다/EC+ㄴ/JX+숨/NNG+에/NNG
+25. 다/MAG+ㄴ/JX+숨/NNG+에/NNG
+혼란
+ 1. 혼란/NNG
+ 2. 혼/NNG+란/NNG
+ 3. 혼/NNG+라/NNG+ㄴ/JX
+ 4. 호/NNB+ㄴ/JX+란/ETM
+ 5. 호/NNG+ㄴ/JX+란/ETM
+ 6. 호/NNP+ㄴ/JX+란/ETM
+ 7. 호/NNB+ㄴ/EF+란/ETM
+ 8. 호/NNB+ㄴ/JX+란/JX
+ 9. 호/NNG+ㄴ/JX+란/JX
+10. 호/NNP+ㄴ/JX+란/JX
+11. 호/NNB+ㄴ/EF+란/JX
+12. 호/NNB+ㄴ/JX+란/NNG
+13. 호/NNG+ㄴ/JX+란/NNG
+14. 호/NNP+ㄴ/JX+란/NNG
+15. 호/NNB+ㄴ/JX+라/EC+ㄴ/JX
+16. 호/NNG+ㄴ/JX+라/EC+ㄴ/JX
+17. 호/NNP+ㄴ/JX+라/EC+ㄴ/JX
+18. 호/NNB+ㄴ/JX+라/NNG+ㄴ/JX
+19. 호/NNG+ㄴ/JX+라/NNG+ㄴ/JX
+20. 호/NNP+ㄴ/JX+라/NNG+ㄴ/JX
+빠
+ 1. 빠/NNG
+연쇄
+ 1. 연쇄/NNG
+ 2. 열/VV+ㄴ/ETM+쇄/NNG
+ 3. 연/NNG+쇄/NNG
+ 4. 연/NNP+쇄/NNG
+ 5. 연/MM+쇄/NNG
+ 6. 여/EF+ㄴ/ETM+쇄/NNG
+ 7. 여/EF+ㄴ/JX+쇄/NNG
+ 8. 여/EC+ㄴ/JX+쇄/NNG
+ 9. 여/XSN+ㄴ/JX+쇄/NNG
+10. 여/NNG+ㄴ/JX+쇄/NNG
+11. 여/NNP+ㄴ/JX+쇄/NNG
+12. 여/NP+ㄴ/JX+쇄/NNG
+13. 열/VV+ㄴ/ETM+쇄/NNG
+14. 이/VV+어/EF+ㄴ/ETM+쇄/NNG
+15. 이/VV+어/EF+ㄴ/JX+쇄/NNG
+16. 이/VV+어/EC+ㄴ/JX+쇄/NNG
+실종
+ 1. 실종/NNG
+ 2. 실/NNG+종/NNG
+ 3. 실/NNP+종/NNG
+ 4. 실/NNB+종/NNG
+ 5. 실/NNP+종/NNP
+ 6. 시/EP+ㄹ/ETM+종/NNG
+ 7. 시/VA+ㄹ/ETM+종/NNG
+ 8. 시/EP+ㄹ/ETM+종/NNP
+ 9. 시/VA+ㄹ/ETM+종/NNP
+발생
+ 1. 발생/NNG
+ 2. 발/NNG+생/XSN
+ 3. 발/NNB+생/XSN
+ 4. 발/NNG+생/NNG
+ 5. 발/NNB+생/NNG
+주
+ 1. 주/NNG
+ 2. 주/NNB
+ 3. 주/MM
+ 4. 주/NNP
+최초
+ 1. 최초/NNG
+ 2. 최/NNP+초/NNB
+ 3. 최/XPN+초/NNB
+ 4. 최/NNG+초/NNB
+ 5. 최/NNP+초/XPN
+ 6. 최/XPN+초/XPN
+ 7. 최/NNP+초/NNG
+ 8. 최/XPN+초/NNG
+ 9. 최/NNG+초/NNG
+10. 최/NNP+초/NNP
+11. 최/XPN+초/NNP
+12. 최/NNG+초/NNP
+토끼
+ 1. 토끼/NNG
+ 2. 토/NNG+끼/NNG
+경찰관
+ 1. 경찰관/NNG
+ 2. 경찰/NNG+관/NNG
+ 3. 경찰/NNG+관/NNB
+ 4. 경찰/NNG+과/JC+ㄴ/JX
+ 5. 경찰/NNG+과/JKB+ㄴ/JX
+ 6. 경찰/NNG+과/NNG+ㄴ/JX
+ 7. 경찰/NNG+고/VV+아/EF+ㄴ/ETM
+ 8. 경찰/NNG+고/VV+아/EF+ㄴ/JX
+ 9. 경찰/NNG+고/VV+아/EC+ㄴ/JX
+10. 경차/NNG+ㄹ/JKO+과/JKB+ㄴ/JX
+11. 경차/NNG+ㄹ/JKO+고/VV+아/EF+ㄴ/ETM
+12. 경차/NNG+ㄹ/JKO+고/VV+아/EF+ㄴ/JX
+13. 경차/NNG+ㄹ/JKO+고/VV+아/EC+ㄴ/JX
+14. 경/XSN+차/VV+ㄹ/ETM+관/NNG
+15. 경/NNG+차/VV+ㄹ/ETM+관/NNG
+16. 경/NNP+차/VV+ㄹ/ETM+관/NNG
+17. 경/XSN+차/VA+ㄹ/ETM+관/NNG
+18. 경/NNG+차/VA+ㄹ/ETM+관/NNG
+19. 경/XSN+차/VV+ㄹ/ETM+관/NNB
+20. 경/NNG+차/VV+ㄹ/ETM+관/NNB
+21. 경/NNP+차/VV+ㄹ/ETM+관/NNB
+22. 경/XSN+차/VA+ㄹ/ETM+관/NNB
+23. 경/NNG+차/VA+ㄹ/ETM+관/NNB
+24. 경/XSN+차/VV+ㄹ/ETM+과/JKB+ㄴ/JX
+25. 경/NNG+차/VV+ㄹ/ETM+과/JKB+ㄴ/JX
+26. 경/NNP+차/VV+ㄹ/ETM+과/JKB+ㄴ/JX
+27. 경/XSN+차/VA+ㄹ/ETM+과/JKB+ㄴ/JX
+28. 경/NNG+차/VA+ㄹ/ETM+과/JKB+ㄴ/JX
+29. 경/XSN+차/NNG+ㄹ/JKO+과/JKB+ㄴ/JX
+30. 경/NNG+차/NNG+ㄹ/JKO+과/JKB+ㄴ/JX
+31. 경/NNP+차/NNG+ㄹ/JKO+과/JKB+ㄴ/JX
+32. 경/XSN+차/NNB+ㄹ/JKO+과/JKB+ㄴ/JX
+주
+ 1. 주/NNG
+ 2. 주/NNB
+ 3. 주/MM
+ 4. 주/NNP
+홉스
+ 1. 홉스/NNP
+48
+ 1. 48/SN
+안
+ 1. 안/MAG
+ 2. 안/NNG
+ 3. 안/NNP
+ 4. 아/EF+ㄴ/ETM
+ 5. 아/EC+ㄴ/JX
+ 6. 아/EF+ㄴ/JX
+ 7. 아/NNP+ㄴ/JX
+ 8. 아/NNG+ㄴ/JX
+ 9. 알/VV+ㄴ/ETM
+사건
+ 1. 사건/NNG
+ 2. 사/NNG+건/NNB
+ 3. 사/NR+건/NNB
+ 4. 사/EC+건/NNB
+ 5. 사/JX+건/NNB
+ 6. 사/VV+건/EC
+ 7. 사/NNG+건/EC
+ 8. 사/EC+건/EC
+ 9. 사/JX+건/EC
+10. 사/NNG+건/NNG
+11. 사/NR+건/NNG
+12. 사/EC+건/NNG
+13. 사/JX+건/NNG
+14. 사/NNG+거/NNB+ㄴ/JX
+15. 사/NR+거/NNB+ㄴ/JX
+16. 사/EC+거/NNB+ㄴ/JX
+17. 사/JX+거/NNB+ㄴ/JX
+18. 사/EC+거/NP+ㄴ/JX
+19. 사/JX+거/NP+ㄴ/JX
+20. 사/NNG+거/NNG+ㄴ/JX
+21. 사/NR+거/NNG+ㄴ/JX
+22. 사/EC+거/NNG+ㄴ/JX
+23. 사/JX+거/NNG+ㄴ/JX
+24. 사/VV+걸/VV+ㄴ/ETM
+25. 사/NNG+걸/VV+ㄴ/ETM
+26. 사/EC+걸/VV+ㄴ/ETM
+해결
+ 1. 해결/NNG
+ 2. 하/XSV+아/EC+결/NNG
+ 3. 하/XSV+어/EC+결/NNG
+ 4. 하/XSA+어/EC+결/NNG
+ 5. 해/NNG+결/NNG
+ 6. 하/XSV+아/EC+결/NNB
+ 7. 하/XSV+어/EC+결/NNB
+ 8. 하/XSA+어/EC+결/NNB
+ 9. 해/NNG+결/NNB
+10. 하/XSV+아/EC+겨/NNG+ㄹ/JKO
+11. 하/XSV+어/EC+겨/NNG+ㄹ/JKO
+12. 하/XSA+어/EC+겨/NNG+ㄹ/JKO
+13. 해/NNG+겨/NNG+ㄹ/JKO
+14. 하/XSV+아/EC+기/VV+어/EF+ㄹ/ETM
+15. 하/XSV+어/EC+기/VV+어/EF+ㄹ/ETM
+16. 하/XSA+어/EC+기/VV+어/EF+ㄹ/ETM
+17. 해/NNG+기/VV+어/EF+ㄹ/ETM
+18. 하/XSV+아/EC+기/VV+어/EC+ㄹ/JKO
+19. 하/XSV+어/EC+기/VV+어/EC+ㄹ/JKO
+20. 하/XSA+어/EC+기/VV+어/EC+ㄹ/JKO
+21. 해/NNG+기/VV+어/EC+ㄹ/JKO
+22. 하/VX+어/EC+결/NNG
+23. 하/VV+어/EC+결/NNG
+24. 하/VX+어/EC+결/NNB
+25. 하/VV+어/EC+결/NNB
+지시
+ 1. 지시/NNG
+ 2. 지/EC+시/EP
+ 3. 지/VX+시/EP
+ 4. 지/VV+시/EP
+ 5. 지/EC+시/NNB
+ 6. 지/NNB+시/NNB
+ 7. 지/NNG+시/NNB
+ 8. 지/NP+시/NNB
+ 9. 지/EC+시/NNG
+10. 지/NNB+시/NNG
+11. 지/NNG+시/NNG
+12. 지/NP+시/NNG
+13. 지/EC+시/XSN
+14. 지/VV+시/XSN
+15. 지/NNB+시/XSN
+16. 지/NNG+시/XSN
+17. 지/NP+시/XSN
+18. 지/NNB+시/NNP
+19. 지/NNG+시/NNP
+20. 질/VA+시/EP
+받
+ 1. 받/NA
+뻔뻔
+ 1. 뻔뻔/XR
+ 2. 뻔/NNB+뻔/NNB
+ 3. 뻔/XR+뻔/NNB
+ 4. 뻔/NNB+뻔/XR
+ 5. 뻔/XR+뻔/XR
+사기꾼
+ 1. 사기/NNG+꾼/XSN
+ 2. 사기/NNP+꾼/XSN
+ 3. 사기/NNG+꾼/NNG
+ 4. 사기/NNP+꾼/NNG
+ 5. 사기/NNG+꾸/VV+ㄴ/ETM
+ 6. 사기/NNP+꾸/VV+ㄴ/ETM
+ 7. 사/VV+기/ETN+꾼/XSN
+ 8. 사/NNG+기/NNG+꾼/XSN
+ 9. 사/NR+기/NNG+꾼/XSN
+10. 사/EC+기/NNG+꾼/XSN
+11. 사/JX+기/NNG+꾼/XSN
+12. 사/VV+기/XSN+꾼/XSN
+13. 사/NNG+기/XSN+꾼/XSN
+14. 사/NR+기/XSN+꾼/XSN
+15. 사/EC+기/XSN+꾼/XSN
+16. 사/JX+기/XSN+꾼/XSN
+17. 사/VV+기/VV+꾼/XSN
+18. 사/NNG+기/VV+꾼/XSN
+19. 사/EC+기/VV+꾼/XSN
+20. 사/JX+기/VV+꾼/XSN
+21. 사/NNG+기/NNB+꾼/XSN
+22. 사/NR+기/NNB+꾼/XSN
+23. 사/EC+기/NNB+꾼/XSN
+24. 사/JX+기/NNB+꾼/XSN
+25. 사/VV+기/ETN+꾼/NNG
+26. 사/NNG+기/NNG+꾼/NNG
+27. 사/NR+기/NNG+꾼/NNG
+28. 사/EC+기/NNG+꾼/NNG
+여우
+ 1. 여우/NNG
+ 2. 여/XSN+우/NNG
+ 3. 여/NNG+우/NNG
+ 4. 여/NNP+우/NNG
+ 5. 여/EC+우/NNG
+ 6. 여/NP+우/NNG
+ 7. 여/NNG+우/NNP
+ 8. 여/NNP+우/NNP
+ 9. 여/NNG+우/EC
+10. 여/EC+우/EC
+11. 여/NP+우/EC
+12. 여/IC+우/IC
+13. 여/NNG+우/MAG
+14. 여/IC+우/MAG
+15. 여/EC+우/MAG
+16. 여/NP+우/MAG
+17. 이/VV+어/EC+우/NNG
+18. 이/VV+어/EC+우/EC
+닉
+ 1. 닉/NNP
+와일드
+ 1. 와일드/XR
+ 2. 와/NNG+일/NNP+드/NNP
+ 3. 오/VV+아/EC+일/NNG+드/NNG
+ 4. 와/JKB+일/NNG+드/NNG
+ 5. 와/MAG+일/NNG+드/NNG
+ 6. 와/NNG+일/NNG+드/NNG
+ 7. 오/VV+아/EC+일/NNB+드/NNG
+ 8. 와/JKB+일/NNB+드/NNG
+ 9. 와/MAG+일/NNB+드/NNG
+10. 와/NNG+일/NNB+드/NNG
+11. 와/NNG+일/NNP+드/NNG
+12. 오/VV+아/EC+이/VCP+ㄹ/ETM+드/NNP
+13. 와/JKB+이/VCP+ㄹ/ETM+드/NNP
+14. 와/IC+이/VCP+ㄹ/ETM+드/NNP
+15. 와/MAG+이/VCP+ㄹ/ETM+드/NNP
+16. 와/NNG+이/VCP+ㄹ/ETM+드/NNP
+17. 오/VV+아/EC+이/VV+ㄹ/ETM+드/NNP
+18. 와/JKB+이/VV+ㄹ/ETM+드/NNP
+19. 와/IC+이/VV+ㄹ/ETM+드/NNP
+20. 와/MAG+이/VV+ㄹ/ETM+드/NNP
+21. 와/VV+이/VV+ㄹ/ETM+드/NNP
+협동
+ 1. 협동/NNG
+수사
+ 1. 수사/NNG
+ 2. 수/MM+사/NNG
+ 3. 수/NNB+사/NNG
+ 4. 수/NNG+사/NNG
+ 5. 수/MM+사/NNG
+ 6. 수/EC+사/NNG
+ 7. 수/NNP+사/NNG
+ 8. 수/MM+사/NR
+ 9. 수/MM+사/NR
+10. 수/NNB+사/EC
+11. 수/NNG+사/EC
+12. 수/EC+사/EC
+13. 수/MM+사/JX
+14. 수/MM+사/JX
+15. 수/EF+사/JX
+16. 수/EC+사/JX
+17. 수/NNB+사/JX
+18. 수/NNG+사/JX
+19. 수/NNP+사/JX
+20. 수/NNB+사/VV+아/EC
+21. 수/NNG+사/VV+아/EC
+22. 수/EC+사/VV+아/EC
+제안
+ 1. 제안/NNG
+ 2. 제/NP+안/MAG
+ 3. 제/NNG+안/MAG
+ 4. 제/MM+안/MAG
+ 5. 제/NNB+안/MAG
+ 6. 저/NP+의/JKG+안/NNG
+ 7. 제/XPN+안/NNG
+ 8. 제/XSN+안/NNG
+ 9. 제/NP+안/NNG
+10. 제/NNG+안/NNG
+11. 제/MM+안/NNG
+12. 제/NNB+안/NNG
+13. 제/XPN+안/NNP
+14. 제/NNG+안/NNP
+15. 제/MM+안/NNP
+16. 제/NNB+안/NNP
+17. 제/EF+안/ETM
+18. 제/NNB+아/EF+ㄴ/ETM
+19. 제/NP+아/EC+ㄴ/JX
+20. 제/NNG+아/EC+ㄴ/JX
+21. 제/NNB+아/EC+ㄴ/JX
+22. 제/NNB+아/EF+ㄴ/JX
+23. 제/XPN+아/NNP+ㄴ/JX
+24. 제/NNG+아/NNP+ㄴ/JX
+25. 제/MM+아/NNP+ㄴ/JX
+26. 제/NNB+아/NNP+ㄴ/JX
+27. 저/NP+의/JKG+아/NNG+ㄴ/JX
+28. 제/XPN+아/NNG+ㄴ/JX
+29. 제/XSN+아/NNG+ㄴ/JX
+30. 제/NP+아/NNG+ㄴ/JX
+31. 제/NNG+아/NNG+ㄴ/JX
+32. 제/MM+아/NNG+ㄴ/JX
+스릴
+ 1. 스릴/NNG
+ 2. 스리/NNG+ㄹ/JKO
+넘치
+ 1. 넘/VV+치/XSN
+ 2. 넘/NNG+치/XSN
+ 3. 넘/NNG+치/NNB
+ 4. 넘/NNG+치/NNG
+추격
+ 1. 추격/NNG
+ 2. 추/NNG+격/NNB
+ 3. 추/NNP+격/NNB
+ 4. 추/NNG+격/NNG
+ 5. 추/NNP+격/NNG
+신세계
+ 1. 신세계/NNP
+ 2. 신세/NNG+계/XSN
+ 3. 신세/NNG+계/NNG
+ 4. 신/NNG+세계/NNG
+ 5. 신/XPN+세계/NNG
+ 6. 신/NNP+세계/NNG
+ 7. 신/NNG+세/NNB+계/XSN
+ 8. 신/XPN+세/NNB+계/XSN
+ 9. 신/NNP+세/NNB+계/XSN
+10. 신/NNG+세/MM+계/XSN
+11. 신/NNP+세/MM+계/XSN
+12. 신/NNG+세/NNG+계/XSN
+13. 신/XPN+세/NNG+계/XSN
+14. 신/NNP+세/NNG+계/XSN
+15. 신/NNG+세/VV+계/XSN
+16. 신/XPN+세/VV+계/XSN
+17. 신/VV+세/VV+계/XSN
+18. 신/NNP+세/VV+계/XSN
+19. 신/VV+세/EC+계/XSN
+20. 신/XPN+세/NNP+계/XSN
+21. 신/NNP+세/NNP+계/XSN
+22. 신/NNG+세/NR+계/XSN
+23. 신/XPN+세/NR+계/XSN
+24. 신/NNG+세/NNB+계/NNG
+25. 신/XPN+세/NNB+계/NNG
+26. 신/NNP+세/NNB+계/NNG
+27. 신/NNG+세/MM+계/NNG
+28. 신/NNP+세/MM+계/NNG
+29. 신/NNG+세/NNG+계/NNG
+30. 신/XPN+세/NNG+계/NNG
+31. 신/NNP+세/NNG+계/NNG
+32. 신/VV+세/EC+계/NNG
+열린
+ 1. 열린/NNP
+ 2. 열리/VV+ㄴ/ETM
+ 3. 열/VV+리/EF+ㄴ/ETM
+ 4. 열/VV+리/EC+ㄴ/JX
+ 5. 열/VV+리/EF+ㄴ/JX
+ 6. 열/NR+리/NNB+ㄴ/JX
+ 7. 열/NNG+리/NNB+ㄴ/JX
+ 8. 열/NR+리/NNG+ㄴ/JX
+ 9. 열/NNG+리/NNG+ㄴ/JX
+10. 열/VV+리/XSN+ㄴ/JX
+11. 열/NR+리/XSN+ㄴ/JX
+12. 열/NNG+리/XSN+ㄴ/JX
+13. 여/EF+ㄹ/ETM+린/NNP
+14. 여/EF+ㄹ/ETM+리/EC+ㄴ/JX
+15. 여/EF+ㄹ/ETM+리/NNB+ㄴ/JX
+16. 여/EF+ㄹ/ETM+리/NNG+ㄴ/JX
+17. 여/EF+ㄹ/ETM+리/NNP+ㄴ/JX
+18. 여/EF+ㄹ/ETM+리/XSN+ㄴ/JX
+19. 이/VV+어/EF+ㄹ/ETM+린/NNP
+20. 이/VV+어/EF+ㄹ/ETM+리/EC+ㄴ/JX
+
